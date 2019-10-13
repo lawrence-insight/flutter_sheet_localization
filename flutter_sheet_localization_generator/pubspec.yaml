@@ -16,7 +16,7 @@ dependencies:
   dart_style: ^1.2.7 
   source_gen: ^0.9.0
   flutter_sheet_localization: ^1.0.0
-  build: ^1.2.0
+  build: ^1.0.0
   analyzer: ^0.33.3
   collection: ^1.14.11
 
